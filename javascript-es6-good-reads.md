@@ -1,4 +1,4 @@
-# JavaScript ES6: The Good Reads
+# ES6 or ECMAScript 6 or ECMAScript 2015 JavaScript: The Good Reads
 
 ### ES6
 
