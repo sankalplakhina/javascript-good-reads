@@ -10,6 +10,8 @@ Following are few links collated for easy access:
 
 * [Design patterns used in Angular JS](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) (Must know if you are appearing for an AngularJS based interview)
 
+### [ES6 or ECMAScript 6 or ECMAScript 2015: The Good Reads](/javascript-es6-good-reads.md)
+
 ### Redux
 
 * [Introduction to Redux: Getting Started with it's ideology](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
