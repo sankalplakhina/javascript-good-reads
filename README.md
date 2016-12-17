@@ -6,6 +6,14 @@ Following are few links collated for easy access:
 
 ### Design Patterns
 
-* [All about JavaScript Design patterns, their frequency of use their implementations](http://www.dofactory.com/javascript/design-patterns)
+* [All about JavaScript Design patterns, their frequency of use and implementations](http://www.dofactory.com/javascript/design-patterns)
 
 * [Design patterns used in Angular JS](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) (Must know if you are appearing for an AngularJS based interview)
+
+### Redux
+
+* [Introduction to Redux: Getting Started with it's ideology](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
+
+### React/Redux
+
+* [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
