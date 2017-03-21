@@ -4,6 +4,10 @@ Learning JavaScript, can be a tricky proposition. New libraries, features, APIâ€
 
 Following are few links collated for easy access:
 
+### Understanding JavaScript & concepts
+
+* [Understanding JavaScript & concepts: The Good Reads](/javascript-concepts-good-reads.md)
+
 ### Design Patterns
 
 * [Design Patterns in JavaScript: The Good Reads](/javascript-design-patterns-good-reads.md)
